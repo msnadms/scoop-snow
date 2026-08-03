@@ -5,8 +5,8 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/msnadms/snow-terminal/releases/download/v1.1.3/snow-1.1.3-win-x64.zip",
-            "hash": "41961a79014ead245326d35accfc31fa66558e3548a50adc6590c6538b9e550d"
+            "url": "https://github.com/msnadms/snow-terminal/releases/download/v1.1.4/snow-1.1.4-win-x64.zip",
+            "hash": "3f49095283477cee5e7d64a085aed993e13d6b8798b1e20ec35771390d9256b5"
         }
     },
     "bin": "snow.exe",
