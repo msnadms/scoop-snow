@@ -1,12 +1,12 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "description": "A terminal emulator and AI workflow helper",
     "homepage": "https://github.com/msnadms/snow-terminal",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/msnadms/snow-terminal/releases/download/v1.5.2/snow-1.5.2-win-x64.zip",
-            "hash": "b7d78e4dc49f29834368081b0e2bb1a9a78576fba119cf86eab19694ca1e71a2"
+            "url": "https://github.com/msnadms/snow-terminal/releases/download/v1.5.3/snow-1.5.3-win-x64.zip",
+            "hash": "bee152e4b8b8e8314611364bb5d2a342893c12ee843986d539025bc0361b4d12"
         }
     },
     "bin": "snow.exe",
